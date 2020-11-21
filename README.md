@@ -2,11 +2,11 @@
 
 Guitar to "MIC in" converter.
 
-This circuit converts a typical electric guitar's output (6.35mm) to a electret microphone input (3.5mm) on the normal sound card that usually come with your motherboard. 
+This circuit converts a typical electric guitar's Hi-Z output (6.35mm) to a electret microphone input (3.5mm) on the normal sound card that usually come with your motherboard. 
 
 ## Compatibility
 
-This circuit assumes your sound card provides a 3.85V DC bias voltage and a 2.2K resistance.
+This circuit assumes your sound card provides a DC bias voltage.
 
 ## Copyright
 
